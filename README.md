@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/profil-cockpit.jpg)
+
 <!--
 **TaniaRaguel/TaniaRaguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
