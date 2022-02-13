@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cover](https://github.com/TaniaRaguel/TaniaRaguel/blob/master/img/cover.jpg)
+![Cover](https://github.com/TaniaRaguel/TaniaRaguel/blob/main/img/cover.jpg)
 
 <!--
 **TaniaRaguel/TaniaRaguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
